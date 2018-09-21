@@ -11,4 +11,4 @@
 
    CKEditor - [Editor CDN](https://ckeditor.com/)
    
-   [View Project](https://mixblack.github.io/Cyro-Photography/)
+   [View Project](https://mixblack.github.io/Admin-Panel/)
